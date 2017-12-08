@@ -3,3 +3,5 @@ ginga >= 2.6.6
 ipywidgets
 ipyevents 
 matplotlib
+jupyter
+requests
