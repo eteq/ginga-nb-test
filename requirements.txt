@@ -1,0 +1,4 @@
+stropy >= 2.0
+ginga >= 2.6.6
+ipywidgets
+Ipyevents 
